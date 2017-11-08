@@ -1,0 +1,20 @@
+{
+	"idPerson":"1",
+	"name":"Morteza",
+	"family":"Mohammadi",
+	"age":"22",
+	"address":[{
+		"idAddress":"1",
+		"location":"Arak",
+		"phone":"123"
+	}, {
+		"idAddress":"2",
+		"location":"Mashhad",
+		"phone":"234"
+	}],
+	"job":{
+		"idJob":"1",
+		"name":"teacher",
+		"salary":"1200"
+	}
+}
